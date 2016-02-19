@@ -2,7 +2,7 @@
 #define TRACE_TRACK
 
 /**
- * Iterates over tracks, ray tracing and calling the PiecesKernel on each piece
+ * Iterates over tracks, calling the PiecesKernel on each piece
  */
 class TraceTrack
 {
